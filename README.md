@@ -10,7 +10,7 @@ This is a beta testing version of RearGen. We will completely adding new feature
 - Fast and easy
 - Build less than 5MB app
 - More customisation
-- Connection lost window
+- Connection lost screen
 - Refresh facility
 - No more SSL bypass
 - High quality rendering
