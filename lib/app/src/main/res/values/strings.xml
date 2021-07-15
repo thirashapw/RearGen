@@ -1,0 +1,5 @@
+<resources>
+        <string name="app_name">RearGen</string>
+        <string name="image_logo">Logo</string>
+        <string name="trans_status">false</string>
+    </resources>
