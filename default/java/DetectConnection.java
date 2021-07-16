@@ -1,5 +1,4 @@
 package tpw.creator.reargen;
-
 import android.content.Context;
 import android.net.ConnectivityManager;
 

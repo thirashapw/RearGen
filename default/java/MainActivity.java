@@ -1,5 +1,4 @@
 package tpw.creator.reargen;
-
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.constraintlayout.widget.ConstraintLayout;
 import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
@@ -8,9 +7,11 @@ import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 import android.content.Context;
 import android.os.Bundle;
 import android.view.ViewTreeObserver;
+import android.view.WindowManager;
 import android.webkit.WebChromeClient;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.RelativeLayout;
@@ -22,8 +23,12 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-
         setContentView(R.layout.activity_main);
+
+        FullScreen fullScreen = new FullScreen();
+        if(fullScreen.setFullScreen()) {
+            getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
+        }
         mySwipeRefreshLayout = (SwipeRefreshLayout)this.findViewById(R.id.swipeContainer);
         ConstraintLayout cl = findViewById(R.id.loadingback);
 
@@ -34,9 +39,10 @@ public class MainActivity extends AppCompatActivity {
         ProgressBar Pbar = findViewById(R.id.progressBar1);
         ImageView imgLogo = findViewById(R.id.logoimage);
         ConstraintLayout noInternetLayout = findViewById(R.id.no_internet);
+        Button reloadBtn = findViewById(R.id.outlinedRefreshButton);
 
 
-
+        LoadType loadType = new LoadType();
 
         myWebView.setWebViewClient(new WebViewClient());
 
@@ -44,7 +50,16 @@ public class MainActivity extends AppCompatActivity {
         myWebView.getSettings().setJavaScriptCanOpenWindowsAutomatically(true);
 
         WebUrl wu = new WebUrl();
-        myWebView.loadUrl(wu.url());
+
+        if(loadType.typeofloading() == "02b20154"){
+            myWebView.loadUrl(wu.url());
+        }else if(loadType.typeofloading() == "08e10294"){
+            myWebView.loadUrl("file:///android_asset/index.html");
+        }else{
+            myWebView.loadUrl("https://github.com/ThirashaPraween/RearGen");
+        }
+
+
 
         DetectConnection dc = new DetectConnection();
         if(!dc.checkInternetConnection(this)){
@@ -59,7 +74,12 @@ public class MainActivity extends AppCompatActivity {
         LoadingImage li = new LoadingImage();
         ActiveRefresh ar = new ActiveRefresh();
 
-
+        reloadBtn.setOnClickListener(v -> {
+            myWebView.reload();
+            if(al.isActiveLoadingScreen()){
+                mySwipeRefreshLayout.setRefreshing(false);
+            }
+        });
 
 
 
