@@ -7,7 +7,7 @@
 # RearGen
 Native based fast android apps developing framework with modern features.
 
-- Installation instructions
+- [Installation instructions](#Installation)
 - Start development
 - Run a hosted app
 - Build a new app with HTML/CSS/JS
@@ -20,7 +20,7 @@ Native based fast android apps developing framework with modern features.
 - Buy premium key
 - Donate
 
-We released stable releases of the RearGen. RearGen is depends on JAVA and gradle. To run this application you have to install Java JDK. Compiler written in Python. There are several features added to this application than [RWAD](https://github.com/ThirashaPraween/RWAD-React-Native-Web-App-Dev).
+We released stable releases of the RearGen. RearGen is depends on JAVA and gradle. To run this application you have to install Java JDK. Compiler written in Python. There are several features added to this framework than [RWAD](https://github.com/ThirashaPraween/RWAD-React-Native-Web-App-Dev).
 
 ## Features
 - No more NodeJS and React Native back-end.
@@ -41,5 +41,7 @@ We released stable releases of the RearGen. RearGen is depends on JAVA and gradl
 - [Zeal Animator](https://thirashapraween.github.io/Zeal-Animator) supported
 - Custom CSS and JavaScript libraries supported
 
+
+## Installation
 
 Thank you for using RearGen!
