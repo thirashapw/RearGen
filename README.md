@@ -123,8 +123,5 @@ Contact us on [Discord](https://discord.gg/ymyQntskxj) **private** to get a prem
 RearGen material kit is a upcoming material kit to develop modern mobile apps.
 
 
-## Buy premium a key
-Contact us on [Discord](https://discord.gg/ymyQntskxj) **private** to get a premium key.
-
 
 Thank you for using RearGen!
