@@ -21,7 +21,7 @@ Native based fast android apps developing framework with modern features.
 - [Donate](https://paypal.me/thirasha?locale.x=en_US)
 - [What is RearGen material kit?](#what-is-reargen-material-kit)
 
-We released stable releases of the RearGen. RearGen is depends on JAVA and gradle. To run this application you have to install Java JDK. Compiler written in Python. There are several features added to this framework than [RWAD](https://github.com/ThirashaPraween/RWAD-React-Native-Web-App-Dev).
+We have released stable releases of the RearGen. RearGen is depends on JAVA and gradle. To run this application you have to install Java JDK. Compiler written in Python. There are several features added to this framework than [RWAD](https://github.com/ThirashaPraween/RWAD-React-Native-Web-App-Dev).
 
 
 ## Features
