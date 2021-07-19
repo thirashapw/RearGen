@@ -88,7 +88,7 @@ if you entered ```y``` it will generate the source code and ask you **Bundle / A
 if you want a bundle press ```b```, apk press ```a```, install app to connected device or emulator ```t``` (to run connected device. please [setup](https://guides.codepath.com/android/Running-Apps-on-Your-Device) your device) and press ```r``` to recollect app details.
 
 ## Run a hosted app
-First follow the [development instructions](#start-development). then the stage of **Load URL or dismiss to connect src: ** you have to enter the hosted app or website URL
+First follow the [development instructions](#start-development). then the stage of **Load URL or dismiss to connect src:** you have to enter the hosted app or website URL
 
 
 ## Build a new app with HTML CSS JS
