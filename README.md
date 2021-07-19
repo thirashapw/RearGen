@@ -115,14 +115,22 @@ Copy the library CDN url. Then, paste it into your ```src/index.html``` file and
 You can see ```clean.bat``` file in the root folder. If you have any trouble or unknown error, first try to run the ```clean.bat``` files. and again compile your project. If not fixed, copy the error and find solution through the internet.
 
 
+<<<<<<< HEAD
 ## Buy premium a key
 Contact us on [Discord](https://discord.gg/ymyQntskxj) **private** to get a premium key.
 
 
+=======
+>>>>>>> 9d43edecd86e85c4ddffe6d61604b47ec814336e
 ## What is RearGen material kit
 RearGen material kit is a upcoming material kit to develop modern mobile apps.
 
 
+<<<<<<< HEAD
+=======
+## Buy premium a key
+Contact us on [Discord](https://discord.gg/ymyQntskxj) **private** to get a premium key.
+>>>>>>> 9d43edecd86e85c4ddffe6d61604b47ec814336e
 
 
 Thank you for using RearGen!
