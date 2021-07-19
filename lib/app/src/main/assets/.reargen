@@ -1,9 +1,0 @@
-key = cp:ThirashaPW
-language = arby
-
-Initialize_components()
-Public archive(e as EventArgs){
-
-return e.assets
-
-}
