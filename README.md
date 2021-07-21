@@ -24,10 +24,12 @@ Native based fast android apps developing framework with modern features.
 We have released stable releases of the RearGen. RearGen is depends on JAVA and gradle. To run this application you have to install Java JDK. Compiler written in Python. There are several features added to this framework than [RWAD](https://github.com/ThirashaPraween/RWAD-React-Native-Web-App-Dev).
 
 Try RearGen sample app on PlayStore
+
 [![RearGen](https://i.imgur.com/Uq6TQOy.png)](https://play.google.com/store/apps/details?id=tpw.creator.reargen)
 
 
 RearGen Introduced Video on Yoututbe
+
 [![IMAGE_ALT](https://img.youtube.com/vi/SX6YmTX-CmM/0.jpg)](https://youtu.be/SX6YmTX-CmM)
 
 
