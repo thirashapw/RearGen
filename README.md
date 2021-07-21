@@ -28,7 +28,7 @@ Try RearGen sample app on PlayStore
 
 
 RearGen Introduced Video on Yoututbe
-[![IMAGE_ALT](https://img.youtube.com/vi/SX6YmTX-CmM/0.jpg)]https://youtu.be/SX6YmTX-CmM)
+[![IMAGE_ALT](https://img.youtube.com/vi/SX6YmTX-CmM/0.jpg)](https://youtu.be/SX6YmTX-CmM)
 
 
 ## Features
