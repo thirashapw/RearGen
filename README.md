@@ -134,11 +134,11 @@ You can see ```clean.bat``` file in the root folder. If you have any trouble or 
 
 
 ## Buy premium a key
-Contact us on [Discord](https://discord.gg/ymyQntskxj) **private** to get a premium key.
+First, You need to support this product. To support and request a premium key, Contact me on [Discord](https://discord.gg/ymyQntskxj) **Direct Message** to get a premium key.
 
 
 ## What is RearGen material kit
-RearGen material kit is a upcoming material kit to develop modern mobile apps.
+RearGen material kit is a upcoming library to develop modern mobile apps.
 
 
 Thank you for using RearGen!
