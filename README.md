@@ -64,7 +64,7 @@ RearGen Introduced Video on Yoututbe
 
 ## Installation
 First you have to download latest [release](https://github.com/ThirashaPraween/RearGen/releases) or LTS [release](https://github.com/ThirashaPraween/RearGen/releases) from the github or clone the repo.
-After that, install supported [JDK 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) or [JDK 16](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html) to your computer. then, follow the [start developement](#start-development) instructions.
+After that, install supported [JDK 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) or [JDK 16](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html) to your computer. then, follow the [start development](#start-development) instructions.
 
 ## Start Development
 Run ```RearGen.exe``` or head your command line to RearGen directory then type ```RearGen``` and run it.
