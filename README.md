@@ -110,7 +110,7 @@ First follow the [development instructions](#start-development). then the stage 
 
 
 ## Build a new app with HTML CSS JS
-First develop your app or website in the ```src``` folder. you can use any css and js libaries. **(```src``` folder must be include ```index.html``` file)**. after that follow the [development instructions](#start-development). then the stage of **Load URL or dismiss to connect src: ** dismiss the stage by pressing ```Enter``` key. it will automatically connected to ```src``` folder.
+First develop your app or website in the ```src``` folder. you can use any css and js libaries. **(```src``` folder must be include ```index.html``` file)**. after that follow the [development instructions](#start-development). then the stage of **Load URL or dismiss to connect src:** dismiss the stage by pressing ```Enter``` key. it will automatically connected to ```src``` folder.
 
 
 ## Live testing
