@@ -138,7 +138,7 @@ First, You need to support this product. To support and request a premium key, C
 
 
 ## What is RearGen material kit
-RearGen material kit is a upcoming library to develop modern mobile apps.
+RearGen material kit is an upcoming library to develop modern mobile apps.
 
 
 Thank you for using RearGen!
