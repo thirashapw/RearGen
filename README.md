@@ -11,6 +11,7 @@ Native based fast android apps developing framework with modern features.
 - [Start development](#start-development)
 - [Run a hosted app](#run-a-hosted-app)
 - [Build a new app with HTML/CSS/JS](#build-a-new-app-with-html-css-js)
+- [What is fornyKit?](#what-is-fornykit)
 - [Live testing](#live-testing)
 - [Recollecting](#recollecting)
 - [Zeal Animator support](#zeal-animator-support)
@@ -19,7 +20,6 @@ Native based fast android apps developing framework with modern features.
 - [Report a issue](https://discord.gg/ymyQntskxj)
 - [Buy premium a key](#buy-premium-a-key)
 - [Support to this project](https://www.buymeacoffee.com/thirashapraween)
-- [What is fornyKit?](#what-is-fornykit)
 
 We have released stable releases of the RearGen. RearGen is depends on JAVA and gradle. To run this application you have to install Java JDK. Compiler written in Python. There are several features added to this framework than [RWAD](https://github.com/ThirashaPraween/RWAD-React-Native-Web-App-Dev).
 
@@ -112,6 +112,10 @@ First follow the [development instructions](#start-development). then the stage 
 ## Build a new app with HTML CSS JS
 First develop your app or website in the ```src``` folder. you can use any css and js libaries. **(```src``` folder must be include ```index.html``` file)**. after that follow the [development instructions](#start-development). then the stage of **Load URL or dismiss to connect src:** dismiss the stage by pressing ```Enter``` key. it will automatically connected to ```src``` folder.
 
+## What is fornyKit?
+![N|Solid](https://i.imgur.com/brTmrW7.png)\
+RearGen does not come with mobile-responsive components. So fornyKit is also known as RearGen Material Kit handles HTML elements as android responsive components. Try [fornyKit](https://github.com/ThirashaPraween/fornyKit) to your RearGen project.
+
 
 ## Live testing
 First follow the [development instructions](#start-development). after that the stage of **Bundle / APK / Test / ReCollect (b/a/t/r):**. press ```t``` to test the app on emulator or [physical device](https://guides.codepath.com/android/Running-Apps-on-Your-Device).
@@ -136,10 +140,6 @@ You can see ```clean.bat``` file in the root folder. If you have any trouble or 
 ## Buy premium a key
 First, You need to support this product. To support and request a premium key, Contact me on [Discord](https://discord.gg/ymyQntskxj) **Direct Message** to get a premium key.
 
-
-## What is fornyKit?
-![N|Solid](https://i.imgur.com/brTmrW7.png)\
-RearGen does not come with mobile-responsive components. So fornyKit is also known as RearGen Material Kit handles HTML elements as android responsive components. Try [fornyKit](https://github.com/ThirashaPraween/fornyKit) to your RearGen project
 
 
 Thank you for using RearGen!
