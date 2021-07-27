@@ -138,7 +138,7 @@ First, You need to support this product. To support and request a premium key, C
 
 
 ## What is fornyKit?
-![N|Solid](https://i.imgur.com/brTmrW7.png)
+![N|Solid](https://i.imgur.com/brTmrW7.png)\
 RearGen does not come with mobile-responsive components. So fornyKit is also known as RearGen Material Kit handles HTML elements as android responsive components. Try [fornyKit](https://github.com/ThirashaPraween/fornyKit) to your RearGen project
 
 
