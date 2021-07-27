@@ -19,7 +19,7 @@ Native based fast android apps developing framework with modern features.
 - [Report a issue](https://discord.gg/ymyQntskxj)
 - [Buy premium a key](#buy-premium-a-key)
 - [Support to this project](https://www.buymeacoffee.com/thirashapraween)
-- [What is RearGen material kit?](#what-is-reargen-material-kit)
+- [What is fornyKit?](#what-is-fornykit)
 
 We have released stable releases of the RearGen. RearGen is depends on JAVA and gradle. To run this application you have to install Java JDK. Compiler written in Python. There are several features added to this framework than [RWAD](https://github.com/ThirashaPraween/RWAD-React-Native-Web-App-Dev).
 
@@ -137,8 +137,9 @@ You can see ```clean.bat``` file in the root folder. If you have any trouble or 
 First, You need to support this product. To support and request a premium key, Contact me on [Discord](https://discord.gg/ymyQntskxj) **Direct Message** to get a premium key.
 
 
-## What is RearGen material kit
-RearGen material kit is an upcoming library to develop modern mobile apps.
+## What is fornyKit?
+RearGen not comes with mobile responsive components. So fornyKit is also known as RearGen Material Kit handles html elements as android responsive components.
+Try [fornyKit](https://github.com/ThirashaPraween/fornyKit) to your RearGen project
 
 
 Thank you for using RearGen!
