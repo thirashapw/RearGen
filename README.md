@@ -11,6 +11,7 @@ Native based fast android apps developing framework with modern features.
 - [Start development](#start-development)
 - [Run a hosted app](#run-a-hosted-app)
 - [Build a new app with HTML/CSS/JS](#build-a-new-app-with-html-css-js)
+- [What is fornyKit?](#what-is-fornykit)
 - [Live testing](#live-testing)
 - [Recollecting](#recollecting)
 - [Zeal Animator support](#zeal-animator-support)
@@ -18,10 +19,18 @@ Native based fast android apps developing framework with modern features.
 - [Use clean file](#use-clean-file)
 - [Report a issue](https://discord.gg/ymyQntskxj)
 - [Buy premium a key](#buy-premium-a-key)
-- [Donate](https://paypal.me/thirasha?locale.x=en_US)
-- [What is RearGen material kit?](#what-is-reargen-material-kit)
+- [Support to this project](https://www.buymeacoffee.com/thirashapraween)
 
-We released stable releases of the RearGen. RearGen is depends on JAVA and gradle. To run this application you have to install Java JDK. Compiler written in Python. There are several features added to this framework than [RWAD](https://github.com/ThirashaPraween/RWAD-React-Native-Web-App-Dev).
+We have released stable releases of the RearGen. RearGen is depends on JAVA and gradle. To run this application you have to install Java JDK. Compiler written in Python. There are several features added to this framework than [RWAD](https://github.com/ThirashaPraween/RWAD-React-Native-Web-App-Dev).
+
+Try RearGen sample app on PlayStore
+
+[![RearGen](https://i.imgur.com/Uq6TQOy.png)](https://play.google.com/store/apps/details?id=tpw.creator.reargen)
+
+
+RearGen Introduced Video on Yoututbe
+
+[![IMAGE_ALT](https://img.youtube.com/vi/SX6YmTX-CmM/0.jpg)](https://youtu.be/SX6YmTX-CmM)
 
 
 ## Features
@@ -43,10 +52,19 @@ We released stable releases of the RearGen. RearGen is depends on JAVA and gradl
 - [Zeal Animator](https://thirashapraween.github.io/Zeal-Animator) supported
 - Custom CSS and JavaScript libraries supported
 
+<br>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/thirashapraween">
+      <img src="https://camo.githubusercontent.com/2ef5c63105d22716d9d093d2c8b77cd7aa9d540b/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f64656661756c742d79656c6c6f772e706e67" height="50px"/>
+  </a>
+   <a href="https://www.patreon.com/thirasha">
+      <img src="https://le-cdn.website-editor.net/05ce6571223a491289ae62de7892c2dd/dms3rep/multi/opt/Patreon-Button-2880w.png" height="50px"/>
+  </a>
+</p>
 
 ## Installation
 First you have to download latest [release](https://github.com/ThirashaPraween/RearGen/releases) or LTS [release](https://github.com/ThirashaPraween/RearGen/releases) from the github or clone the repo.
-After that, install supported [JDK 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) or [JDK 16](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html) to your computer. then, follow the [start developement](#start-development) instructions.
+After that, install supported [JDK 8](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html) or [JDK 16](https://www.oracle.com/java/technologies/javase-jdk16-downloads.html) to your computer. then, follow the [start development](#start-development) instructions.
 
 ## Start Development
 Run ```RearGen.exe``` or head your command line to RearGen directory then type ```RearGen``` and run it.
@@ -92,7 +110,11 @@ First follow the [development instructions](#start-development). then the stage 
 
 
 ## Build a new app with HTML CSS JS
-First develop your app or website in the ```src``` folder. you can use any css and js libaries. **(```src``` folder must be include ```index.html``` file)**. after that follow the [development instructions](#start-development). then the stage of **Load URL or dismiss to connect src: ** dismiss the stage by pressing ```Enter``` key. it will automatically connected to ```src``` folder.
+First develop your app or website in the ```src``` folder. you can use any css and js libaries. **(```src``` folder must be include ```index.html``` file)**. after that follow the [development instructions](#start-development). then the stage of **Load URL or dismiss to connect src:** dismiss the stage by pressing ```Enter``` key. it will automatically connected to ```src``` folder.
+
+## What is fornyKit?
+![N|Solid](https://i.imgur.com/brTmrW7.png)\
+RearGen does not come with mobile-responsive components. So fornyKit is also known as RearGen Material Kit handles HTML elements as android responsive components. Try [fornyKit](https://github.com/ThirashaPraween/fornyKit) to your RearGen project.
 
 
 ## Live testing
@@ -116,11 +138,7 @@ You can see ```clean.bat``` file in the root folder. If you have any trouble or 
 
 
 ## Buy premium a key
-Contact us on [Discord](https://discord.gg/ymyQntskxj) **private** to get a premium key.
-
-
-## What is RearGen material kit
-RearGen material kit is a upcoming material kit to develop modern mobile apps.
+First, You need to support this product. To support and request a premium key, Contact me on [Discord](https://discord.gg/ymyQntskxj) **Direct Message** to get a premium key.
 
 
 
