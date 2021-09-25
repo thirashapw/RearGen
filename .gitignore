@@ -1,0 +1,6 @@
+.idea
+RearGen.py
+key.reargen
+lib/.gradle/
+lib/.idea/
+lib/build/
