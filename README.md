@@ -136,7 +136,7 @@ You can see ```clean.bat``` file in the root folder. If you have any trouble or 
 
 
 ## Buy premium a key
-First, You need to support this product. To support and request a premium key, Contact me on [Discord](https://discord.gg/ymyQntskxj) **Direct Message** to get a premium key.
+You need to support this product. To support and request a premium key, Contact me via email me@thirashapw.com to get a life time unlimited apps generating premium key.
 
 
 
