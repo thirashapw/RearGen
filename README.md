@@ -136,9 +136,4 @@ Copy the library CDN url. Then, paste it into your ```src/index.html``` file and
 You can see ```clean.bat``` file in the root folder. If you have any trouble or unknown error, first try to run the ```clean.bat``` files. and again compile your project. If not fixed, copy the error and find solution through the internet.
 
 
-## Buy premium a key
-You need to support this product. To support and request a premium key, Contact me via email me@thirashapw.com to get a life time unlimited apps generating premium key.
-
-
-
 Thank you for using RearGen!
