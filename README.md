@@ -3,8 +3,6 @@
 
 ![Build man](https://img.shields.io/badge/Release-Stable-red?style=for-the-badge&logo=appveyor) ![Build man](https://img.shields.io/badge/Build%20version-v1.7.2-green?style=for-the-badge&logo=appveyor) ![Build man](https://img.shields.io/github/repo-size/ThirashaPraween/RearGen?style=for-the-badge&logo=appveyor) ![Build man](https://img.shields.io/tokei/lines/github/ThirashaPraween/RearGen?style=for-the-badge) ![Build man](https://img.shields.io/github/last-commit/ThirashaPraween/RearGen?style=for-the-badge) ![Build man](https://img.shields.io/badge/Developer-ThirashaPW-blueviolet?style=for-the-badge&logo=appveyor)
 
-*Now It's Free Unlimited!*
-
 # RearGen
 Native based fast android apps developing framework with modern features.
 
